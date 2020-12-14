@@ -1,6 +1,13 @@
-### Hi there 👋
+# sportyweb – eine freie Anwendungssoftware für Sportvereine 
+
+Das Angebot an Sportarten und sportlichen Aktivitäten ist heute in (Amateur-)Sportvereinen sehr vielfältig. Es umfasst neben den verbreiteten Sportarten wie Fußball, Handball, Basketball und Tennis auch Kampfsportarten, Fitnesssport und Rehabilitationssport. Aus Sicht des Vereinsmanagements, der Vereinsmitglieder und anderer Stakeholder stellen sich an eine integrierte Anwendungssoftware zur Unterstützung der Vereinsaktivitäten sehr viele funktionale Anforderungen, darunter etwa die Verwaltung von Mitgliederstammdaten, der automatisierte Einzug der Mitgliedsbeiträge und das korrespondierende Mahnwesen, aber auch die jährliche Meldung der aktiven Mitglieder an Sportverbände.
+
+Ziel dieses Projekts ist es, eine integrierte Anwendungssoftware für Sportvereine als freie Software zu entwickeln – nichtzuletzt um Amateursportvereine in Krisenzeiten zu unterstützen. Das Projekt wird gemeinsam mit der "Enterprise Modelling Research Group" an der FernUniversität in Hagen durchgeführt. Wir suchen derzeit Mitstreiter. Implementierungssprachen und Implementierungsumgebung sind noch nicht festgelegt. Wir denken derzeit nach über Django/Python || Ruby on Rails || Kotlin+X.
+
+
 
 <!--
+### Hi there 👋
 **sportyweb/sportyweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
