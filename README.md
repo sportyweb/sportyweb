@@ -4,7 +4,7 @@ Das Angebot an Sportarten und sportlichen Aktivitäten ist heute in (Amateur-)Sp
 
 Ziel dieses Projekts ist es, eine integrierte Anwendungssoftware für Sportvereine als freie Software zu entwickeln – nichtzuletzt um Amateursportvereine in Krisenzeiten zu unterstützen. Das Projekt wird gemeinsam mit der ["Enterprise Modelling Research Group" an der FernUniversität in Hagen](https://www.fernuni-hagen.de/evis/forschung/projekte/anwendungssoftware-fuer-sportvereine.shtml) durchgeführt. **Wir suchen derzeit Mitstreiter.** Implementierungssprachen und Implementierungsumgebung sind noch nicht festgelegt. Wir denken derzeit über [Django/Python](https://en.wikipedia.org/wiki/Django_(web_framework)) nach.
 
-Ideen diskutieren wir unter [Discussion](https://github.com/sportyweb/sportyweb/discussions).
+Ideen diskutieren wir in den [Discussions](https://github.com/sportyweb/sportyweb/discussions).
 
 <!--
 ### Hi there 👋
